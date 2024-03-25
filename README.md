@@ -1,2 +1,2 @@
 # awolusilibrary
-School Project on Free Rural Community Library Website
+My MSc Computing Project on Free Rural Community Library Website
